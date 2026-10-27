@@ -1,54 +1,47 @@
-# Hi there 👋 I'm Dmitrii
+# Привет! 👋 Меня зовут Дмитрий
 
-### Data Analyst | SQL | Python | BI
+### IT · Data · Analytics · Quality Assurance
 
-I am a Data Analyst focused on transforming raw data into actionable business insights.
+Я развиваюсь в сфере информационных технологий, изучаю работу с данными, аналитические инструменты и обеспечение качества программного обеспечения.
 
-I enjoy exploring datasets, automating analytical tasks, identifying trends, and building dashboards that help understand business performance.
+Мне интересно решать практические задачи, анализировать информацию, автоматизировать процессы, тестировать программные продукты и создавать решения, которые помогают повышать эффективность и качество работы.
 
-## 📊 Featured Projects
+## 🚀 Мои проекты
 
-### 🛒 [E-commerce Sales Analysis](https://github.com/Dmitrii123k/SQL-Ecommerce-Analysis)
-**Python · SQL · Power BI**
+### 📊 Аналитика данных
 
-- Data cleaning and exploratory data analysis.
-- Sales performance and customer behavior analysis.
-- RFM analysis and business intelligence dashboards.
+- [E-commerce Sales Analysis](https://github.com/Dmitrii123k/SQL-Ecommerce-Analysis) — анализ продаж, клиентов и бизнес-показателей.
+- [Bank Loan Risk Analysis](https://github.com/Dmitrii123k/SQL-Bank-Loans) — анализ кредитных данных и оценка рисков.
+- [Data Analyst Job Preparation](https://github.com/Dmitrii123k/Data-Analyst-Job-Preparation) — практические задачи по SQL, Python, статистике и BI.
 
-### 🏦 [Bank Loan Risk Analysis](https://github.com/Dmitrii123k/SQL-Bank-Loans)
-**PostgreSQL · Advanced SQL · Tableau**
+### 🧪 Тестирование программного обеспечения
 
-- Credit risk analysis using real-world analytical techniques.
-- CTEs, window functions, aggregations, and SQL views.
-- Analysis of loan performance and risk indicators.
+- [Web-API-QA](https://github.com/Dmitrii123k/Web-API-QA) — изучение QA, тестирование веб-приложений и REST API, тестовая документация и практические задания.
 
-### 📚 [Data Analyst Job Preparation](https://github.com/Dmitrii123k/Data-Analyst-Job-Preparation)
-**SQL · Python · Statistics · BI**
+## 🛠️ Технологии и инструменты
 
-- Practical SQL exercises and interview preparation.
-- Data analysis, statistics, and A/B testing.
-- BI tools, data warehousing, ETL/ELT, and ClickHouse.
+**Работа с данными:** SQL, PostgreSQL, ClickHouse, Python, Pandas, NumPy
 
-## 🛠️ Tech Stack
+**BI и визуализация:** Power BI, Tableau, Yandex DataLens, Metabase
 
-**SQL:** PostgreSQL, ClickHouse
+**Тестирование:** QA Fundamentals, Manual Testing, Web Testing, API Testing, Postman — по мере освоения и выполнения практических работ
 
-**Python:** Pandas, NumPy
+**Инструменты разработки:** Git, GitHub, VS Code, DBeaver
 
-**BI & Visualization:** Power BI, Tableau, Yandex DataLens, Metabase
+## 📚 Сейчас изучаю
 
-**Analytics:** Data Cleaning, EDA, KPI Analysis, RFM Analysis, A/B Testing, Statistics
+- Анализ данных и бизнес-аналитику
+- Тестирование программного обеспечения
+- SQL и Python
+- REST API и клиент-серверную архитектуру
+- Тест-дизайн и тестовую документацию
+- Инструменты автоматизации и повышения эффективности
 
-**Tools:** Git, GitHub, DBeaver, VS Code
-
-## 🎯 Currently Learning
-
-- Data Warehousing and ETL/ELT
-- Advanced SQL and data modeling
-- Business Intelligence and dashboard design
-- Statistical analysis and experimentation
-
-## 🔗 Connect with Me
+## 🔗 Контакты
 
 - [LinkedIn](https://linkedin.com/in/dmitrii-kiskin-654889441)
-- [GitHub Repositories](https://github.com/Dmit
+- [GitHub](https://github.com/Dmitrii123k)
+
+---
+
+*Репозитории регулярно пополняются учебными материалами, практическими заданиями и собственными проектами.*
